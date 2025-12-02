@@ -27,7 +27,7 @@ En este proyecto se analiza el dataset del Titanic para predecir la supervivenci
 - Graficos de conteo para la distribucion de supervivencia
 - Histogramas para la distribucion de las edades
 - Diagramas de caja para visualizar outliers en variables numéricas
-- Graficos de contero para los puertos de embarque
+- Graficos de conteo para los puertos de embarque
 
 ## 🚀 Entrenamiento del modelo y evaluación
 
